@@ -81,10 +81,10 @@
   resolved "https://registry.npmjs.org/@types/async/-/async-3.2.20.tgz"
   integrity sha512-6jSBQQugzyX1aWto0CbvOnmxrU9tMoXfA9gc4IrLEtvr3dTwSg5GLGoWiZnGLI6UG/kqpB3JOQKQrqnhUWGKQA==
 
-"@types/node@*", "@types/node@^18.16.0":
-  version "18.16.0"
-  resolved "https://registry.npmjs.org/@types/node/-/node-18.16.0.tgz"
-  integrity sha512-BsAaKhB+7X+H4GnSjGhJG9Qi8Tw+inU9nJDwmD5CgOmBLEI6ArdhikpLX7DjbjDRDTbqZzU2LSQNZg8WGPiSZQ==
+"@types/node@*", "@types/node@^18.17.12":
+  version "18.17.12"
+  resolved "https://registry.npmjs.org/@types/node/-/node-18.17.12.tgz"
+  integrity sha512-d6xjC9fJ/nSnfDeU0AMDsaJyb1iHsqCSOdi84w4u+SlN/UgQdY5tRhpMzaFYsI4mnpvgTivEaQd0yOUhAtOnEQ==
 
 "@types/ws@^8.5.4":
   version "8.5.4"
