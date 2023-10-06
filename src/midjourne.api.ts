@@ -331,6 +331,7 @@ export class MidjourneyApi extends Command {
       "::SOLO",
       ""
     );
+	customId = customId+"::1";
     console.log("Reformatted custom for modal (removed SOLO, etc): ", customId);
     return this.ModalSubmitApi({
       nonce,
